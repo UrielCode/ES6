@@ -1,5 +1,5 @@
 
-# Hablemos de ES6
+# Hablemos de ES6
 ## ¿Qué aprenderás?
 1. Las novedades de ES6.
 
